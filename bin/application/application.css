@@ -1,0 +1,30 @@
+.root {
+	-fx-background-image : url("background.jpg");
+	-fx-background-repeat : no-repeat;
+	-fx-background-position : center;
+	-fx-background-size :cover;
+}
+
+.label {
+    -fx-font-size: 20px;
+    -fx-text-fill: #ededed;
+    -fx-font-family: "Calibri Light";
+}
+
+.button {
+	-fx-font-size : 15px;
+    -fx-text-fill: black;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: white; 
+}
+#time {
+	-fx-font-size : 40px;
+	-fx-font-family: "Californian FB";
+	-fx-text-fill: white; 
+}
+#temp{
+	-fx-font-size : 35px;
+	-fx-font-family: "Californian FB";
+	-fx-text-fill: #e0e0e0; 
+}
