@@ -10,3 +10,6 @@ I build this project built in my spare time for learning purposes. This applicat
 # Requirements 
 1. JavaFX SDK, You can download from given link (https://gluonhq.com/products/javafx/) 
 2. JSON (http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm)
+
+# Setup
+For setup for different IDE, you can follow (https://openjfx.io/openjfx-docs/) the given link.
