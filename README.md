@@ -6,3 +6,7 @@ I build this project built in my spare time for learning purposes. This applicat
 ![Weather1](https://user-images.githubusercontent.com/87819222/197375117-be57e13b-d4fd-4423-bc64-01ae0832e3e5.png)
 2. Press Enter or else click on "Search" button.
 ![Weather2](https://user-images.githubusercontent.com/87819222/197375120-baf7b20b-d1d4-4c01-ae3e-798bb22bf618.png)
+
+# Requirements 
+1. JavaFX SDK, You can download from given link (https://gluonhq.com/products/javafx/) 
+2. JSON (http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm)
