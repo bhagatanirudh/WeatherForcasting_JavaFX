@@ -233,7 +233,7 @@ public class WeatherApiProject extends Application {
         root.add(stpane, 0, 5, 2, 1);
         
         scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
-        primaryStage.setTitle("Weather Forcasting");
+        primaryStage.setTitle("Weather Forecasting");
         primaryStage.setScene(scene);  
         primaryStage.show(); 
         
